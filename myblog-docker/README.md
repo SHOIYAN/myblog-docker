@@ -15,8 +15,8 @@ This project is a simple application that consists of a React frontend and an Ex
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/SHOIYAN/myblog-docker.git
+   cd myblog-docker
 2. Build and run the containers:
    ```bash
    docker-compose up --build
